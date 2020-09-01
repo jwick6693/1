@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Hello openshift";
+echo "Hello openshift web";
 ?>
 
 </body>
