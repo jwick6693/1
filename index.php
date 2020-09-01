@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Hello openshift webhook";
+echo "Hello openshift web1hook";
 ?>
 
 </body>
